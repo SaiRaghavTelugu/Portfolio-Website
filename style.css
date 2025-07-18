@@ -67,7 +67,7 @@ body {
     color: black;
     align-items: stretch;
     justify-content: center;
-    overflow: visible;
+    overflow-x:hidden;
 }
 
 .doodle_out {
